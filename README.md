@@ -4,7 +4,7 @@ Using R script, I created a linear regression model with summary statistics to d
 The results are shown below.
 
 
-![Linear Regression.png](
+![Linear Regression.png](https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/d8298876238e1068df1db1b2cb7894e753fb15e9/Linear%20Regression.png)
 
 
 ![Linear Regression and Summary.png](https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/33132bae122ac66c3498323fb817d23d4d1f07aa/Linear%20Regression%20and%20Summary.png)
