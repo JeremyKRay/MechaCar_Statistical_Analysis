@@ -49,3 +49,32 @@ The t-test performed on Lot 2 shows that Lot 2 is not significantly different th
 
 
 The t-test performed on Lot 3 shows that Lot 3 is significantly different than the population mean of 1500 psi for suspension coils. The p-value is .04168, below our standard of .05, and the mean is 1496.14.
+
+### Conclusion
+The above statistical analysis has revealed a very important statistical variance among the lots for the MechaCar prototype. The pounds per square inch of the suspension coils in cars from Lot 3 are significantly different from the cars of the other 2 lots. So, before moving forward with designing a study comparing MechaCar vs the competition, I would suggest either AutosRUs not include Lot 3 in the study, or fix the issue with the suspension coils to bring the cars closer to the statistical mean.
+
+## Study Design: MechaCar vs Competition
+### Description
+Now that we have a statistically significant population of MechaCars to study, it is time to see how it might stack up to the competition. I plan to perform the following statistical study to determine if cost, fuel efficiency and safety rating have an effect on the consumer rating. Then, using the same metrics, predict what consumer rating the MechaCar can expect and how that compares to the competition.
+
+#### Metrics
+
+Cost
+Fuel efficiency
+  - City
+  - Highway
+Safety Rating
+Consumer Rating
+
+#### Null Hypothesis
+Cost, Fuel efficiency, and Safety Rating have a statistically significant impact on consumer rating.  
+
+#### Alternative Hypothesis
+Cost, Fuel efficiency, and Safety Rating do not have a statistically significant impact on consumer rating.
+
+#### Statistical Test
+Multiple Linear Regression to determine the variance of the dependent variable, consumer rating, and the independent variables, cost, fuel efficiency and safety rating
+
+#### Data
+Cost, fuel efficiency and Safety rating data for the MechaCar and the competition
+Consumer reports data on the competition
