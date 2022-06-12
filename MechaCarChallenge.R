@@ -16,6 +16,8 @@ Suspension_Coil <- read.csv(file = 'Suspension_Coil.csv', check.names = F,string
 total_summary <- Suspension_Coil %>% summarize(Mean_PSI=mean(PSI),Median_PSI=median(PSI),var_psi=var(PSI), Std_Dev_Psi=sd(PSI), .groups = 'keep')
 # Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 lot_summary <- Suspension_Coil %>% group_by(Manufacturing_Lot) %>% summarize(Mean_PSI=mean(PSI),Median_PSI=median(PSI),var_psi=var(PSI), Std_Dev_Psi=sd(PSI), .groups = 'keep')
+
+# Deliverable 3
 # Write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 t.test(Suspension_Coil$PSI,mu=1500)
 # Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch
