@@ -7,4 +7,4 @@
 3.) Despite the number of significant variables, this multiple linear regression model does predict mpg of MechaCar prototypes effectively. According to the summary output, the r-squared value of the model is 0.71, meaning there is a strong positive correlation between our variables, and the p-value remained significant, well below the .05 significance level. I still have reservations about having aa statistically significant intercept however.
 
 The results are shown below.
-![Please Follow link](Linear Regression and Summary.png)
+(Linear Regression and Summary.png)
