@@ -25,3 +25,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ![Lot Summary](https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/e3b61697c50cabd604162f33a82a58952235eaa0/Lot%20Summary.png)
+
+
+##T-Tests on Suspension Coils
+Please see the results below of the t-tests performed in order to determine if all manufacturing lots and each lot individually are different from the population mean of 1,500 pounds per square inch. A brief explanation of what each t-test is demonstrating is included below the results.
