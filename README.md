@@ -18,4 +18,10 @@ The statistical analysis provided 3 main findings.
 3.) Despite the number of significant variables, this multiple linear regression model does predict mpg of MechaCar prototypes effectively. According to the summary output, the r-squared value of the model is 0.71, meaning there is a strong positive correlation between our variables, and the p-value remained significant, well below the .05 significance level. I still have reservations about having aa statistically significant intercept however.
 
 ## Summary Statistics on Suspension Coils
-https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/ae6863526ba95d351d97a69e178e63225fb51bfc/Total%20Summary.png
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. According to the statistics shown for the Total Summary, the variance across the suspension coils is 62.29 psi, which is below the 100 psi standard, even with a standard deviation of 7.9. This meets the design specification when looking at all lots. However, when examining the lot summary, it becomes apparent that Lot 3 should be further investigated. Its variance of 170.29 is well above the 100 psi standard and the standard deviation for this data set is also much higher than the other two lots. With the other two lot's variances coming in at .98 and 7.47, it is very evident that Lot 3 should be further investigated. Please see the results of the analysis below
+
+
+![Total Summary.png](https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/ae6863526ba95d351d97a69e178e63225fb51bfc/Total%20Summary.png)
+
+
+![Lot Summary](https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/e3b61697c50cabd604162f33a82a58952235eaa0/Lot%20Summary.png)
