@@ -77,4 +77,5 @@ Multiple Linear Regression to determine the variance of the dependent variable, 
 
 #### Data
 Cost, fuel efficiency and Safety rating data for the MechaCar and the competition
+
 Consumer reports data on the competition
