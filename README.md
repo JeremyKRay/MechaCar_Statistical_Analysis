@@ -1,4 +1,6 @@
 # MechaCar_Statistical_Analysis
+## Introduction
+
 ## Linear Regression to Predict MPG
 Using R script, I created a linear regression model with summary statistics to determine what variables affect mpg. The dataset I analyzed is a production dataset for AutosRUs' newest prototype, MechaCar.  
 The results are shown below.
