@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Introduction
-The purpose of this project was to analyze a fictitious auto manufacturing company's production problems. There are troubles that are blocking the manufacturing team's progress. R is used to perform the analysis and it is separated into 3 main components. 
+The purpose of this project was to analyze production problems at Mechacar, a fictitious auto manufacturing company. There are troubles that are blocking the manufacturing team's progress and analysis of the company's manufacturing data is needed to determine where the company can improve. R is used to perform the analysis and it is separated into 3 main components. 
   
    A) A multiple linear regression analysis is performed to identify which variables in the dataset predict the mpg of MechCar prototypes.
   
