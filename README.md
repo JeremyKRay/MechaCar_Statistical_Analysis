@@ -79,10 +79,10 @@ Safety Rating
 Consumer Rating
 
 #### Null Hypothesis
-Cost, Fuel efficiency, and Safety Rating have a statistically significant impact on consumer rating.  
+Cost, Fuel efficiency, and Safety Rating do not have a statistically significant impact on consumer rating.  
 
 #### Alternative Hypothesis
-Cost, Fuel efficiency, and Safety Rating do not have a statistically significant impact on consumer rating.
+Cost, Fuel efficiency, and Safety Rating do have a statistically significant impact on consumer rating.
 
 #### Statistical Test
 Multiple Linear Regression to determine the variance of the dependent variable, consumer rating, and the independent variables, cost, fuel efficiency and safety rating
