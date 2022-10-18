@@ -3,11 +3,11 @@
 ## Introduction
 The purpose of this project was to analyze a fictitious auto manufacturing company's production problems. There are troubles that are blocking the manufacturing team's progress. R is used to perform the analysis and it is separated into 3 main components. 
   
-    A) A multiple linear regression analysis is performed to identify which variables in the dataset predict the mpg of MechCar prototypes.
+   A) A multiple linear regression analysis is performed to identify which variables in the dataset predict the mpg of MechCar prototypes.
   
-    B) Summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+   B) Summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
   
-    C) T-tests are run to determine if manufacturing lots are statistically different from the mean population. 
+   C) T-tests are run to determine if manufacturing lots are statistically different from the mean population. 
   
 Finally, a statistical study is designed to compare vehicle performance against vehicles from other manufacturers. A summary interpretation of the findings for each statistical analysis is included.
 
